@@ -1,6 +1,8 @@
 # scrolly
 
-A new Flutter project.
+A new Flutter EdTech mobile App that is focused on standing as an interface between Tertiary Institution students of various fields and schools and to create a more engaging, inclusive and Inidivualized learning experience.
+It is still a work in progress. You can as well support. 
+Contact me through email seunjeremiah@gmail.com.
 
 ## Getting Started
 
