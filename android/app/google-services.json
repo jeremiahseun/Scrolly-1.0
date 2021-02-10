@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "480658699872",
+    "project_id": "scrolly-a0a8c",
+    "storage_bucket": "scrolly-a0a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480658699872:android:420ef037f6bd1c375e3505",
+        "android_client_info": {
+          "package_name": "com.scrolly.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480658699872-m0p433pa9on5hdcarcsk44rjia8s34kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scrolly.app",
+            "certificate_hash": "3ffc1b78843751ed81cb68d456e0925ab1fc3fa1"
+          }
+        },
+        {
+          "client_id": "480658699872-dulkk12l28aft5usco8cqd8s5mne190d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbr9PHNKMDqRUaX7hMN-y1EP4WYCabkGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480658699872-dulkk12l28aft5usco8cqd8s5mne190d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480658699872-omr2jv0tmip60j6lb4k8o31vc37n3tp0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.scrolly.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
